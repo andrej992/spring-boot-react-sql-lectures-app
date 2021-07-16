@@ -1,16 +1,8 @@
-# Spring Boot, MongoDB, Angular Restful API Tutorial
+# Spring Boot, SQL, React Restful API 
 
-Build a Fully-Fledged Todo App with Spring Boot & MongoDB in the Backend and Angular in the frontend.
+Build a Fully-Fledged Lecture adding App with Spring Boot and SQL in the Backend and React in the frontend.
 
-## Requirements
 
-1. Java - 1.8.x
-
-2. Maven - 3.x.x
-
-3. MongoDB - 3.x.x
-
-## Steps to Setup
 
 **1. Clone the application**
 
