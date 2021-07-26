@@ -39,6 +39,10 @@ npm install
 npm start
 ```
 
+```bash
+Enter the password: dummy 
+```
+
 Frontend server will run on <http://localhost:4200>
 
 
